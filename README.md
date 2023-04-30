@@ -22,7 +22,7 @@ In this project, the objective is to predict the number of views a TED talk sess
 - **event** - Event of the TED session (string)
 - **native_lang** - Native language (string)
 - **available_lang** - All the available languages (list)
-- **comments** - Number of comments received (dictionary)<br>`[FORMAT - {'talk_id' : 'title'}`<br>`(talk_id - column 1 of dataset, title - column 2 of dataset)]`
+- **comments** - Number of comments received (int)
 - **duration** - Duration of TED talk session (in seconds) (int)
 - **topics** - Topic of the TED session and tags (list)
 - **related_talks** - Related TED talk sessions (dictionary)<br>`[FORMAT - {'talk_id' : 'title'}`<br>`(talk_id - column 1 of dataset, title - column 2 of dataset)]`
