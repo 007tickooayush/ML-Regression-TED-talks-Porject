@@ -65,7 +65,6 @@ Considering the efficiency of the models, RandomForest provides more simplicity.
 
 - The views for sessions with longer duration is less on average basis.
 - Primary Speaker and comments are the most important features.
-- On average, sessions with longer duration have lesser views.
 - More number of languages available can increase the number of views.
 - The recency of the session published, also plays a major role in deciding the number of views.
 - Features like occupations, about_speakers, url have the least importance.
